@@ -23,11 +23,16 @@ console.log(arrays_string)
 //estructura logica
 for (let i = 0; i < arrays_string.length; i++) {
   console.log(arrays_string[i])
-  Swal.fire("SweetAlert2 is working!");
+  Swal.fire({
+  icon: "error",
+  title: "Oops...",
+  text: "Something went wrong!",
+  footer: '<a href="#">Why do I have this issue?</a>'
+});
 }
 
 
-console.log(arrays_string)
+/*console.log(arrays_string)
 console.log(arrays_string.length)
 var impresion = "";
 for (let i = 0; i < arrays_string.length; i++){
@@ -35,6 +40,7 @@ for (let i = 0; i < arrays_string.length; i++){
 impresion = impresion + arrays_string[i]
 }
 Swal.fire(impresion)
+*/
 
 
 var num1 = 14
