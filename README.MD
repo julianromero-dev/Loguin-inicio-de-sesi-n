@@ -1,4 +1,4 @@
-![imagen](img/login.png)
+<img src="img/login.png" alt="imagen" width="300">
 
 # 📘 Proyecto: Página de Login con Redirección
 
