@@ -1,5 +1,3 @@
-<img src="img/login.png">
-
 # 📘 Proyecto: Página de Login con Redirección
 
 Este proyecto es una interfaz básica de inicio de sesión que valida los campos del formulario y redirige a una página principal al hacer login. Está construido con HTML5, Bootstrap 5 y JavaScript.
