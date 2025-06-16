@@ -1,4 +1,4 @@
-https://github.com/julianromero-dev/Loguin-inicio-de-sesi-n/blob/master/img/login.png
+![imagen](img/login.png)
 
 # 📘 Proyecto: Página de Login con Redirección
 
