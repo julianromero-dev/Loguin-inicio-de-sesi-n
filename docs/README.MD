@@ -1,4 +1,4 @@
-<img src="img/login.png" alt="imagen" width="950" height="420">
+<img src="img/login.png"
 
 # 📘 Proyecto: Página de Login con Redirección
 
@@ -30,13 +30,5 @@ Este proyecto es una interfaz básica de inicio de sesión que valida los campos
 - Botón "Recuérdame" funcional.
 - Redirección simulada a una página principal.
 - Interfaz moderna y responsiva.
-
----
-
-## 🔒Futuras funciones
-
->
-> - Firebase Authentication
-> - MySQL
 
 ---
