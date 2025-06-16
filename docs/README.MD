@@ -33,9 +33,8 @@ Este proyecto es una interfaz básica de inicio de sesión que valida los campos
 
 ---
 
-## 🔒 Nota importante
+## 🔒Futuras funciones
 
-> Futuras funciones. 
 >
 > - Firebase Authentication
 > - MySQL
