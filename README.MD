@@ -1,4 +1,4 @@
-<img src="img/login.png" alt="imagen" width="950" height="450">
+<img src="img/login.png" alt="imagen" width="950" height="350">
 
 # 📘 Proyecto: Página de Login con Redirección
 
