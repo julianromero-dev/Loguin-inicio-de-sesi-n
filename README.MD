@@ -1,4 +1,4 @@
-[![Pagina de login](../login.png)]
+https://github.com/julianromero-dev/Loguin-inicio-de-sesi-n/blob/master/img/login.png
 
 # 📘 Proyecto: Página de Login con Redirección
 
