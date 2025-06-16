@@ -23,12 +23,7 @@ console.log(arrays_string)
 //estructura logica
 for (let i = 0; i < arrays_string.length; i++) {
   console.log(arrays_string[i])
-  Swal.fire({
-  icon: "error",
-  title: "Oops...",
-  text: "Something went wrong!",
-  footer: '<a href="#">Why do I have this issue?</a>'
-});
+ Swal.fire("Bienvenidos ")
 }
 
 
